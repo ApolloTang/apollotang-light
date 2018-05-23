@@ -1,6 +1,5 @@
-" Name:			louver.vim
-" Maintainer:	Kojo Sugita
-" Last Change:  2008-08-15
+" Name:			apollo-light.vim
+" Maintainer: apolloTang
 " Version:		1.0
 
 set background=light
@@ -42,10 +41,10 @@ hi MatchParen	guifg=black			guibg=darkgray		gui=none
 hi MatchParen	ctermfg=black		ctermbg=darkgray	cterm=none
 
 " status line
-hi StatusLine	guifg=white			guibg=darkgray		gui=bold
-hi StatusLine	ctermfg=white		ctermbg=darkgray	cterm=bold
-hi StatusLineNC	guifg=gray			guibg=darkgray		gui=bold
-hi StatusLineNC	ctermfg=gray		ctermbg=darkgray	cterm=bold
+" hi StatusLine	guifg=white			guibg=darkgray		gui=bold
+" hi StatusLine	ctermfg=white		ctermbg=darkgray	cterm=bold
+" hi StatusLineNC	guifg=gray			guibg=darkgray		gui=bold
+" hi StatusLineNC	ctermfg=gray		ctermbg=darkgray	cterm=bold
 
 " Diff
 hi DiffAdd		guifg=darkmagenta	guibg=white			gui=none
