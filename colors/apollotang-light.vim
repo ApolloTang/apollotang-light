@@ -34,7 +34,7 @@ hi CursorIM		ctermfg=white		ctermbg=black		cterm=none
 " Search
 hi Search		guifg=black			guibg=lightred		gui=none
 hi Search		ctermfg=black		ctermbg=lightred	cterm=none
-hi IncSearch	guifg=black			guibg=lightred		gui=none
+hi IncSearch	guifg=black			guibg=green		gui=none
 hi IncSearch	ctermfg=black		ctermbg=lightred	cterm=none
 
 " Matches
@@ -58,7 +58,7 @@ hi DiffText		guifg=darkmagenta	guibg=white			gui=bold
 hi DiffText		ctermfg=darkmagenta	ctermbg=white		cterm=bold
 
 " Folds
-hi Folded		guifg=#bbbbbb			guibg=white			gui=none
+hi Folded		guifg=#bbbbbb			guibg=#fffffe		gui=none
 hi Folded		ctermfg=black		ctermbg=gray		cterm=none
 hi FoldColumn	guifg=black			guibg=gray			gui=none
 hi FoldColumn	ctermfg=black		ctermbg=gray		cterm=none
